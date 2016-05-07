@@ -1,0 +1,23 @@
+{
+  "name": "bots",
+  "version": "0.0.0",
+  "description": "any kind of bots experiments",
+  "main": "bin/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haskone/bots.git"
+  },
+  "author": "haskone",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/haskone/bots/issues"
+  },
+  "dependencies": {
+    "promise": "^7.1.1",
+    "request": "^2.72.0",
+    "slackbots": "^0.5.1"
+  }
+}
